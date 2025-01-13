@@ -36,6 +36,10 @@
 3. The "Japan Post EMS" shipping method will be displayed as an option if the destination country falls within a defined zone and the package weight is within the allowed limits.
 4. Select "Japan Post EMS" and proceed with the checkout process.
 
+## Notes
+
+Prices are denominated in yen, while weights are measured in kilograms.
+
 ## Support
 
 For support, please create an issue in the plugin's Github page.
